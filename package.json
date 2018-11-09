@@ -1,0 +1,18 @@
+{
+  "name": "whatyearisit",
+  "version": "0.1.0",
+  "description": "A game where you try to guess what year a picture was taken.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-komali2:komali2/WHATYEARISIT.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Caleb Rogers",
+  "license": "ISC"
+}
