@@ -37,7 +37,13 @@
       "plugin:vue/essential",
       "@vue/standard"
     ],
-    "rules": {},
+    "rules": {
+        "comma-dangle": ["error", "always"],
+        "space-before-function-paren": ["error", "never"],
+        "space-before-blocks": ["error", "never"],
+        "indent": ["error", 4],
+        "semi": ["error", "always"]
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }
